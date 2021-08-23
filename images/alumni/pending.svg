@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="72" height="42" viewBox="0 0 72 42">
+  <defs>
+    <filter id="Pending" x="9.5" y="15.5" width="54" height="18" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="0.5" result="blur"/>
+      <feFlood flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_1430" data-name="Group 1430" transform="translate(-267 -305)">
+    <path id="Rectangle_1708" data-name="Rectangle 1708" d="M5,0H72a0,0,0,0,1,0,0V37a5,5,0,0,1-5,5H0a0,0,0,0,1,0,0V5A5,5,0,0,1,5,0Z" transform="translate(267 305)" fill="#ff502f"/>
+    <g transform="matrix(1, 0, 0, 1, 267, 305)" filter="url(#Pending)">
+      <text id="Pending-2" data-name="Pending" transform="translate(11 27)" fill="#e4e4e4" font-size="15" font-family="Rajdhani-Bold, Rajdhani" font-weight="700"><tspan x="0" y="0">Pending</tspan></text>
+    </g>
+  </g>
+</svg>

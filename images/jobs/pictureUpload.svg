@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="141" height="115" viewBox="0 0 141 115">
+  <defs>
+    <filter id="Rectangle_1896" x="0" y="0" width="141" height="115" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_2185" data-name="Group 2185" transform="translate(-203 -459)">
+    <g transform="matrix(1, 0, 0, 1, 203, 459)" filter="url(#Rectangle_1896)">
+      <rect id="Rectangle_1896-2" data-name="Rectangle 1896" width="123" height="97" transform="translate(9 6)" fill="#ff502f"/>
+    </g>
+    <text id="Upload_Photo" data-name="Upload
+Photo" transform="translate(276 506)" fill="#fff" font-size="20" font-family="Rajdhani-Bold, Rajdhani" font-weight="700"><tspan x="-28.86" y="0">Upload</tspan><tspan x="-24.24" y="25">Photo</tspan></text>
+  </g>
+</svg>

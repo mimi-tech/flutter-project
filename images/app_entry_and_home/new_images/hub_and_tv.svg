@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="21.16" height="22.807" viewBox="0 0 21.16 22.807">
+  <g id="Group_3016" data-name="Group 3016" transform="translate(6849.218 -18001.195)">
+    <g id="video-player_4_" data-name="video-player (4)" transform="translate(-6849.218 17972.439)">
+      <g id="Group_2964" data-name="Group 2964" transform="translate(0.354 36.354)">
+        <path id="Path_3332" data-name="Path 3332" d="M26.694,56.611H10.707A.707.707,0,0,1,10,55.9v-9.2A.707.707,0,0,1,10.707,46H26.694a.707.707,0,0,1,.707.707v9.2A.707.707,0,0,1,26.694,56.611Z" transform="translate(-10 -46)"/>
+        <circle id="Ellipse_213" data-name="Ellipse 213" cx="1.085" cy="1.085" r="1.085" transform="translate(2.257 12.665)" fill="#fff"/>
+      </g>
+      <g id="Group_2965" data-name="Group 2965" transform="translate(0 36)">
+        <path id="Path_3333" data-name="Path 3333" d="M17.048,36H1.061A1.062,1.062,0,0,0,0,37.061v9.2a1.062,1.062,0,0,0,1.061,1.061H17.048a1.062,1.062,0,0,0,1.061-1.061v-9.2A1.062,1.062,0,0,0,17.048,36ZM17.4,46.257a.354.354,0,0,1-.354.354H1.061a.354.354,0,0,1-.354-.354v-9.2a.354.354,0,0,1,.354-.354H17.048a.354.354,0,0,1,.354.354Z" transform="translate(0 -36)"/>
+        <path id="Path_3334" data-name="Path 3334" d="M209.372,137.822l-2.83-1.768a.354.354,0,0,0-.541.3v3.537a.354.354,0,0,0,.541.3l2.83-1.768a.354.354,0,0,0,0-.6Z" transform="translate(-198.715 -132.463)" fill="#fff"/>
+        <path id="Path_3335" data-name="Path 3335" d="M17.755,397.061H5.119a1.415,1.415,0,0,0-2.74,0H.354a.354.354,0,0,0,0,.707H2.379a1.415,1.415,0,0,0,2.74,0H17.755a.354.354,0,0,0,0-.707ZM3.749,398.122a.707.707,0,1,1,.707-.707A.708.708,0,0,1,3.749,398.122Z" transform="translate(0 -383.267)"/>
+      </g>
+    </g>
+    <g id="Group_2971" data-name="Group 2971" transform="translate(-6839.354 18001.195)">
+      <g id="Ellipse_204" data-name="Ellipse 204" transform="translate(0)" stroke="#fff" stroke-width="1">
+        <circle cx="5.648" cy="5.648" r="5.648" stroke="none"/>
+        <circle cx="5.648" cy="5.648" r="5.148" fill="none"/>
+      </g>
+      <g id="Group_2872" data-name="Group 2872" transform="translate(9.14 2.156) rotate(90)">
+        <rect id="Rectangle_2053" data-name="Rectangle 2053" width="1.369" height="6.984" transform="translate(2.807 0)" fill="#fff"/>
+        <rect id="Rectangle_2054" data-name="Rectangle 2054" width="6.984" height="1.369" transform="translate(0 2.807)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

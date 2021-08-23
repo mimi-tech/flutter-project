@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18.223" height="11.227" viewBox="0 0 18.223 11.227">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff502f"/>
+      <stop offset="1" stop-color="#ff2c17"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_1363" data-name="Group 1363" transform="translate(-204.875 -335.517)">
+    <g id="Group_1188" data-name="Group 1188" transform="translate(204.875 335.517)">
+      <g id="Group_1283" data-name="Group 1283" transform="translate(0 0)">
+        <g id="Group_1000" data-name="Group 1000" transform="translate(0 0)">
+          <g id="video_call" data-name="video call">
+            <g id="Group_944" data-name="Group 944">
+              <g id="Group_942" data-name="Group 942" transform="translate(11.602 0.959)">
+                <path id="Path_2478" data-name="Path 2478" d="M237.831,98.8h0a1.648,1.648,0,0,1-1.079-.412l-3.12-2.712a2.1,2.1,0,0,1,0-3.077l3.12-2.713a1.647,1.647,0,0,1,1.921-.173,1.992,1.992,0,0,1,.909,1.712v5.425a1.99,1.99,0,0,1-.91,1.712A1.619,1.619,0,0,1,237.831,98.8Z" transform="translate(-232.961 -89.477)" fill="url(#linear-gradient)"/>
+              </g>
+              <g id="Group_943" data-name="Group 943">
+                <path id="Path_2479" data-name="Path 2479" d="M9.832,81.456H1.4a1.4,1.4,0,0,1-1.4-1.4V71.624a1.4,1.4,0,0,1,1.4-1.4H9.832a1.4,1.4,0,0,1,1.4,1.4v8.437A1.4,1.4,0,0,1,9.832,81.456Z" transform="translate(0 -70.229)" fill="url(#linear-gradient)"/>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="views" transform="translate(0.818 2.645)">
+          <path id="Path_2492" data-name="Path 2492" d="M4.727,98.725a5.9,5.9,0,0,0-4.653,2.593.374.374,0,0,0,0,.447,5.894,5.894,0,0,0,4.653,2.6,5.9,5.9,0,0,0,4.653-2.593.374.374,0,0,0,0-.447A5.894,5.894,0,0,0,4.727,98.725Zm.13,4.8a1.988,1.988,0,1,1,1.855-1.855A1.99,1.99,0,0,1,4.856,103.527Zm-.06-.917a1.071,1.071,0,1,1,1-1A1.069,1.069,0,0,1,4.8,102.61Z" transform="translate(0 -98.725)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="248" height="66" viewBox="0 0 248 66">
+  <defs>
+    <filter id="Rectangle_1593" x="0" y="0" width="248" height="66" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff502f"/>
+      <stop offset="1" stop-color="#ff2c17"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_1296" data-name="Group 1296" transform="translate(-56 -571)">
+    <g id="Group_1285" data-name="Group 1285" transform="translate(0 112)">
+      <g id="Group_1130" data-name="Group 1130" transform="translate(-3 27)">
+        <g transform="matrix(1, 0, 0, 1, 59, 432)" filter="url(#Rectangle_1593)">
+          <g id="Rectangle_1593-2" data-name="Rectangle 1593" transform="translate(9 6)" stroke="#fff" stroke-width="1">
+            <rect width="230" height="48" rx="6" stroke="none"/>
+            <rect x="0.5" y="0.5" width="229" height="47" rx="5.5" fill="none"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Group_1295" data-name="Group 1295" transform="translate(-6)">
+      <text id="GO_LIVE_" data-name="GO LIVE !" transform="translate(202 607)" fill="#ff502f" font-size="20" font-family="Rajdhani-Bold, Rajdhani" font-weight="700" letter-spacing="0.018em"><tspan x="-36.339" y="0">GO LIVE !</tspan></text>
+      <g id="Group_1283" data-name="Group 1283" transform="translate(-14.718 306.888)">
+        <g id="Group_1000" data-name="Group 1000" transform="translate(149.626 286.767)">
+          <g id="video_call" data-name="video call" transform="translate(0 0)">
+            <g id="Group_944" data-name="Group 944" transform="translate(0 0)">
+              <g id="Group_942" data-name="Group 942" transform="translate(14.668 1.212)">
+                <path id="Path_2478" data-name="Path 2478" d="M239.117,101.258h0a2.083,2.083,0,0,1-1.364-.521l-3.944-3.428a2.654,2.654,0,0,1,0-3.891l3.944-3.429a2.083,2.083,0,0,1,2.428-.219,2.519,2.519,0,0,1,1.149,2.164v6.858a2.516,2.516,0,0,1-1.15,2.164A2.047,2.047,0,0,1,239.117,101.258Z" transform="translate(-232.961 -89.477)" fill="url(#linear-gradient)"/>
+              </g>
+              <g id="Group_943" data-name="Group 943">
+                <path id="Path_2479" data-name="Path 2479" d="M12.431,84.423H1.764A1.766,1.766,0,0,1,0,82.66V71.993a1.766,1.766,0,0,1,1.764-1.764H12.431a1.766,1.766,0,0,1,1.764,1.764V82.66A1.766,1.766,0,0,1,12.431,84.423Z" transform="translate(0 -70.229)" fill="url(#linear-gradient)"/>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="views" transform="translate(150.66 290.112)">
+          <path id="Path_2492" data-name="Path 2492" d="M5.976,98.725A7.456,7.456,0,0,0,.094,102a.473.473,0,0,0,0,.565,7.452,7.452,0,0,0,5.882,3.281,7.456,7.456,0,0,0,5.882-3.279.473.473,0,0,0,0-.565A7.452,7.452,0,0,0,5.976,98.725ZM6.14,104.8a2.514,2.514,0,1,1,2.345-2.345A2.515,2.515,0,0,1,6.14,104.8Zm-.076-1.159a1.354,1.354,0,1,1,1.264-1.264A1.351,1.351,0,0,1,6.064,103.637Z" transform="translate(0 -98.725)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

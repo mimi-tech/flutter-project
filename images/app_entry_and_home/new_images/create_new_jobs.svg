@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="21.381" height="20.814" viewBox="0 0 21.381 20.814">
+  <g id="Group_2897" data-name="Group 2897" transform="translate(7087.5 -17806.54)">
+    <g id="suitcase_2_" data-name="suitcase (2)" transform="translate(-7087.5 17809.535)">
+      <path id="Path_3288" data-name="Path 3288" d="M14.236,6.009a.891.891,0,0,1-.891-.891V3.782H9.782V5.118A.891.891,0,1,1,8,5.118V3.782A1.784,1.784,0,0,1,9.782,2h3.564a1.784,1.784,0,0,1,1.782,1.782V5.118A.891.891,0,0,1,14.236,6.009Z" transform="translate(-0.873 -2)"/>
+      <path id="Path_3289" data-name="Path 3289" d="M11.323,14.97a1.835,1.835,0,0,1-.633.107A1.952,1.952,0,0,1,10,14.952L0,11.62v6.8a2.449,2.449,0,0,0,2.45,2.45H18.931a2.449,2.449,0,0,0,2.45-2.45v-6.8Z" transform="translate(0 -3.05)"/>
+      <path id="Path_3290" data-name="Path 3290" d="M21.381,7.45V9.49L10.9,12.982a.659.659,0,0,1-.428,0L0,9.49V7.45A2.449,2.449,0,0,1,2.45,5H18.931A2.449,2.449,0,0,1,21.381,7.45Z" transform="translate(0 -2.327)"/>
+    </g>
+    <g id="Group_2895" data-name="Group 2895" transform="translate(-7081.98 17806.539)">
+      <circle id="Ellipse_204" data-name="Ellipse 204" cx="5.432" cy="5.432" r="5.432" transform="translate(0)"/>
+      <g id="Group_2872" data-name="Group 2872" transform="translate(8.791 2.074) rotate(90)">
+        <rect id="Rectangle_2053" data-name="Rectangle 2053" width="1.317" height="6.717" transform="translate(2.7 0)" fill="#fff"/>
+        <rect id="Rectangle_2054" data-name="Rectangle 2054" width="6.717" height="1.317" transform="translate(0 2.699)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

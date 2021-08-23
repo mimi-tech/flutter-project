@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="34.263" height="35.03" viewBox="0 0 34.263 35.03">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.69" y1="0.471" x2="0.389" y2="0.61" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#41e6ff"/>
+      <stop offset="1" stop-color="#8df0ff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.622" y1="0.482" x2="0.357" y2="0.312" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#005792" stop-opacity="0.788"/>
+      <stop offset="1" stop-color="#8df0ff"/>
+    </linearGradient>
+    <filter id="Path_2619" x="7.006" y="7.304" width="27.257" height="27.726" filterUnits="userSpaceOnUse">
+      <feOffset dx="2" dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feFlood flood-opacity="0.831"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_1421" data-name="Group 1421" transform="translate(-6130.817 -2734)">
+    <g id="Group_1417" data-name="Group 1417" transform="translate(6133.379 2734)">
+      <g id="Group_455" data-name="Group 455" transform="translate(-1)">
+        <g id="Group_454" data-name="Group 454">
+          <g id="Group_453" data-name="Group 453">
+            <g id="Group_452" data-name="Group 452">
+              <g id="Group_451" data-name="Group 451">
+                <g id="Group_450" data-name="Group 450">
+                  <path id="Path_2617" data-name="Path 2617" d="M8.155,0H24.466a8.079,8.079,0,0,1,8.155,8V24a8.079,8.079,0,0,1-8.155,8H8.155A8.079,8.079,0,0,1,0,24V8A8.079,8.079,0,0,1,8.155,0Z" fill="#bababa"/>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Group_1420" data-name="Group 1420">
+      <path id="Path_2618" data-name="Path 2618" d="M9.6,18.321,3.768,0,0,8.723Z" transform="matrix(0.669, -0.743, 0.743, 0.669, 6138.693, 2744.159)" fill="url(#linear-gradient)"/>
+      <g transform="matrix(1, 0, 0, 1, 6130.82, 2734)" filter="url(#Path_2619)">
+        <path id="Path_2619-2" data-name="Path 2619" d="M10.455,0,4.1,19.957,0,10.455Z" transform="translate(21.62 8.3) rotate(43)" fill="url(#linear-gradient-2)"/>
+      </g>
+      <path id="Path_2620" data-name="Path 2620" d="M.214,7.747l9.391,3.52,3.976,9.376a.448.448,0,0,0,.418.272h.023a.471.471,0,0,0,.418-.323L21.072.372a.438.438,0,0,0,.01-.064.415.415,0,0,0,.009-.063.443.443,0,0,0-.016-.13c0-.01,0-.02,0-.029s0,0,0-.005a.449.449,0,0,0-.082-.143.417.417,0,0,0-.04-.035.426.426,0,0,0-.067-.058c-.006,0-.014,0-.02-.008a.446.446,0,0,0-.06-.023.45.45,0,0,0-.1-.026.418.418,0,0,0-.064,0,.456.456,0,0,0-.108.015c-.012,0-.025,0-.037,0L.24,6.886a.469.469,0,0,0-.316.428A.446.446,0,0,0,.214,7.747Zm13.739,11.4L10.5,11,19.61,1.9ZM18.906,1.325l-9.06,9.047L1.729,7.329Z" transform="translate(6145.137 2735.187) rotate(43)" fill="#8df0ff"/>
+    </g>
+  </g>
+</svg>

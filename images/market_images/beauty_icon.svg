@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="54.086" viewBox="0 0 50 54.086">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#5e95f8"/>
+      <stop offset="1" stop-color="#b666f8"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0.702"/>
+    </linearGradient>
+    <filter id="Beauty" x="4.922" y="7.622" width="41.953" height="46.464" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-color="#76baff" flood-opacity="0.349"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_1729" data-name="Group 1729" transform="translate(-3881 1236)">
+    <g id="Group_1722" data-name="Group 1722" transform="translate(3881 -1236.004)">
+      <g id="Group_1552" data-name="Group 1552" transform="translate(0 0)">
+        <circle id="Ellipse_72" data-name="Ellipse 72" cx="25" cy="25" r="25" transform="translate(0 0.004)" fill="url(#linear-gradient)"/>
+        <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Beauty)">
+          <path id="Beauty-2" data-name="Beauty" d="M14.858,28.464a1.318,1.318,0,0,1-1.316-1.316V12.907a5.206,5.206,0,0,1,10.412,0V27.148a1.318,1.318,0,0,1-1.316,1.316Zm-13.542,0A1.318,1.318,0,0,1,0,27.148V20.582a1.317,1.317,0,0,1,.9-1.248l.3-8.413A2.033,2.033,0,0,1,2.718,9.047L2.71.868A1.028,1.028,0,0,1,2.862.284.629.629,0,0,1,3.389,0a.975.975,0,0,1,.618.261l3.569,2.98A2.72,2.72,0,0,1,8.45,5.114l0,3.934A2.031,2.031,0,0,1,9.954,10.92l.3,8.412a1.318,1.318,0,0,1,.9,1.249v6.566a1.318,1.318,0,0,1-1.316,1.316ZM2.764,11.937,2.5,19.265H8.662L8.4,11.937a.86.86,0,0,0-.851-.82H3.613A.859.859,0,0,0,2.764,11.937Z" transform="translate(13.92 8.62)" fill="url(#linear-gradient-2)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

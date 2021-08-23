@@ -1,0 +1,14 @@
+<svg id="Group_1617" data-name="Group 1617" xmlns="http://www.w3.org/2000/svg" width="44.406" height="42.885" viewBox="0 0 44.406 42.885">
+  <g id="Page-1">
+    <g id="_014---Winking-Star" data-name="014---Winking-Star" transform="translate(0 0)">
+      <path id="Shape" d="M23.536,39.9l8.906,3.71A3.439,3.439,0,0,0,37.2,40.188l-.753-9.832a3.414,3.414,0,0,1,.795-2.46L43.6,20.346a3.421,3.421,0,0,0-1.816-5.528L32.33,12.508a3.441,3.441,0,0,1-2.123-1.555L25.153,2.646a3.446,3.446,0,0,0-5.887,0l-5.058,8.307A3.441,3.441,0,0,1,12.084,12.5l-9.46,2.314A3.421,3.421,0,0,0,.808,20.346L7.168,27.9a3.414,3.414,0,0,1,.8,2.46l-.75,9.833a3.439,3.439,0,0,0,4.761,3.419l8.9-3.711a3.452,3.452,0,0,1,2.657,0Z" transform="translate(-0.005 -0.992)" fill="#f3d55b"/>
+      <path id="Shape-2" data-name="Shape" d="M50.4,20.35,44.039,27.9a3.409,3.409,0,0,0-.8,2.458l.75,9.832a3.438,3.438,0,0,1-4.755,3.423L30.332,39.9A3.5,3.5,0,0,0,29,39.639V1a3.418,3.418,0,0,1,2.94,1.654L37,10.954a3.4,3.4,0,0,0,2.121,1.554l9.457,2.313A3.423,3.423,0,0,1,50.4,20.35Z" transform="translate(-6.798 -0.994)" fill="#f0c419"/>
+      <circle id="Oval" cx="1.5" cy="1.5" r="1.5" transform="translate(16.935 18.609)" fill="#ff502f"/>
+      <circle id="Oval-2" data-name="Oval" cx="1.5" cy="1.5" r="1.5" transform="translate(24.935 18.609)" fill="#ff502f"/>
+    </g>
+  </g>
+  <g id="Rectangle_1836" data-name="Rectangle 1836" transform="translate(17.935 27.609)" fill="#ff502f" stroke="#ff502f" stroke-width="1">
+    <rect width="8" height="2" stroke="none"/>
+    <rect x="0.5" y="0.5" width="7" height="1" fill="none"/>
+  </g>
+</svg>

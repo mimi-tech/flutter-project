@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="131" height="48" viewBox="0 0 131 48">
+  <defs>
+    <filter id="Rectangle_1669" x="0" y="0" width="131" height="48" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_2315" data-name="Group 2315" transform="translate(196 -4344)">
+    <rect id="Rectangle_1670" data-name="Rectangle 1670" width="113" height="7" rx="3" transform="translate(-187 4376)" fill="#707070"/>
+    <g transform="matrix(1, 0, 0, 1, -196, 4344)" filter="url(#Rectangle_1669)">
+      <rect id="Rectangle_1669-2" data-name="Rectangle 1669" width="113" height="30" rx="3" transform="translate(9 6)" fill="#fff"/>
+    </g>
+    <g id="Group_1306" data-name="Group 1306" transform="translate(-2960 4888)">
+      <g id="full_screen_arrow" data-name="full screen arrow" transform="translate(2878 -476.949) rotate(180)">
+        <g id="Group_794" data-name="Group 794" transform="translate(0 41.674)">
+          <path id="Path_2408" data-name="Path 2408" d="M11.5,45.778l.019,0H3.365l2.563-2.569a.673.673,0,0,0,0-.946l-.4-.4a.667.667,0,0,0-.942,0L.194,46.261a.672.672,0,0,0,0,.945L4.587,51.6a.668.668,0,0,0,.942,0l.4-.4a.66.66,0,0,0,.194-.471.64.64,0,0,0-.194-.462L3.336,47.685h8.172A.69.69,0,0,0,12.183,47v-.564A.677.677,0,0,0,11.5,45.778Z" transform="translate(0 -41.674)"/>
+        </g>
+      </g>
+      <text id="CAMPUS" transform="translate(2780 -518)" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">CAMPUS</tspan></text>
+    </g>
+    <g id="Group_1307" data-name="Group 1307" transform="translate(-206.045 4109)">
+      <rect id="Rectangle_1647" data-name="Rectangle 1647" width="17" height="15" transform="translate(87.977 248)" fill="#ff502f"/>
+      <g id="Group_1305" data-name="Group 1305" transform="translate(87.545 248)">
+        <g id="monitor" transform="translate(0 0)">
+          <g id="Group_1304" data-name="Group 1304">
+            <path id="Path_2557" data-name="Path 2557" d="M17.751,79.1V64H0V79.1H6.8v1.59H4.734v.795h8.875V80.69H10.946V79.1Zm-7.4,1.59H7.4V79.1h2.958ZM.592,78.306V64.795H17.159V78.306Z" transform="translate(0 -64)"/>
+          </g>
+        </g>
+        <text id="TV" transform="translate(3.432 11)" fill="#fff" font-size="7" font-family="SegoeUI-Bold, Segoe UI" font-weight="700" letter-spacing="0.018em"><tspan x="0" y="0">TV</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

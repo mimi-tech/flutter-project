@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100.026" height="100.746" viewBox="0 0 100.026 100.746">
+  <defs>
+    <filter id="Path_2551" x="0" y="0" width="100.026" height="100.746" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.4"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="iconfinder_add_134224" x="29.278" y="31.151" width="17.402" height="17.402" filterUnits="userSpaceOnUse">
+      <feOffset dx="1" dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="0.5" result="blur-2"/>
+      <feFlood flood-opacity="0.6"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_1247" data-name="Group 1247" transform="translate(-114 -190)">
+    <g transform="matrix(1, 0, 0, 1, 114, 190)" filter="url(#Path_2551)">
+      <path id="Path_2551-2" data-name="Path 2551" d="M41.013,0A41.374,41.374,0,1,1,0,41.373,41.194,41.194,0,0,1,41.013,0Z" transform="translate(9 6)" fill="#ff502f"/>
+    </g>
+    <g id="Group_1218" data-name="Group 1218" transform="translate(135.449 212.908)">
+      <path id="Path_2536" data-name="Path 2536" d="M120.765,121.335l10.605,12.651a2.4,2.4,0,0,0,4.251-1.525V112.7a9,9,0,0,0-8.987-8.987H87.987A9,9,0,0,0,79,112.7v30.742a9,9,0,0,0,8.987,8.987h38.647a9,9,0,0,0,8.987-8.987,2.4,2.4,0,1,0-4.8,0,4.193,4.193,0,0,1-4.189,4.189H109.973l-4.891-6.345ZM87.987,147.629a4.193,4.193,0,0,1-4.189-4.189V112.7a4.193,4.193,0,0,1,4.189-4.189h38.647a4.193,4.193,0,0,1,4.189,4.189v13.166l-8.279-9.877a2.4,2.4,0,0,0-3.725.058L102.06,137.364l-5.585-7.246a2.4,2.4,0,0,0-1.9-.934h0a2.4,2.4,0,0,0-1.9.936L87.84,136.4a2.4,2.4,0,0,0,3.8,2.926l2.933-3.812,9.338,12.114Zm0,0" transform="translate(-79 -103.711)" fill="#fff"/>
+    </g>
+    <circle id="Ellipse_102" data-name="Ellipse 102" cx="38" cy="38" r="38" transform="translate(125.526 199.759)" fill="#ff502f" opacity="0.5"/>
+    <g transform="matrix(1, 0, 0, 1, 114, 190)" filter="url(#iconfinder_add_134224)">
+      <path id="iconfinder_add_134224-2" data-name="iconfinder_add_134224" d="M15,8H10V3A1,1,0,1,0,8,3V8H3a1,1,0,1,0,0,2H8v5a1,1,0,1,0,2,0V10h5a1,1,0,1,0,0-2Z" transform="translate(27.98 29.85)" fill="#fff" stroke="#fff" stroke-width="0.4"/>
+    </g>
+  </g>
+</svg>

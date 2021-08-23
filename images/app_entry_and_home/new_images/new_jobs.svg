@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="68" height="68" viewBox="0 0 68 68">
+  <defs>
+    <filter id="Rectangle_1436" x="0" y="0" width="68" height="68" filterUnits="userSpaceOnUse">
+      <feOffset dy="12" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feFlood flood-opacity="0.259"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <path id="Path_83" data-name="Path 83" d="M0,0H6.473V2.745L4.647,3.28,3.122,2.893l-.13-.076L.415.355Z" fill="#ff502f"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Path_85" data-name="Path 85" d="M2.511.087,3.673,0,1.891,3.892C1.932,4.836,2.9,5.453,4.3,5.742L4.331,6C1.968,7.52,2.766,7.46,2.857,7.722c.218.622,3.378-.726,2.221-1.2C4.535,6.3,4.043,5.922,0,6.686L.049,1.55A9.086,9.086,0,0,1,2.511.087Z" fill="#ff502f"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <path id="Path_87" data-name="Path 87" d="M0,0,3.635.044V5.234H.115L.873,1.043A4.074,4.074,0,0,0,0,0Z" fill="#ff502f"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <path id="Path_89" data-name="Path 89" d="M1.572.47,3.3.95,8.383,0V4.055H4.514L0,1.877Z" fill="#ff502f"/>
+    </clipPath>
+    <filter id="JOBS" x="19.5" y="14.5" width="30" height="18" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="0.5" result="blur-2"/>
+      <feFlood flood-opacity="0.4"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_1303" data-name="Group 1303" transform="translate(-1672 98)">
+    <g id="Group_1302" data-name="Group 1302">
+      <g id="Group_1300" data-name="Group 1300" transform="translate(1682 -167)">
+        <g id="Group_460" data-name="Group 460">
+          <g id="Group_556" data-name="Group 556" transform="translate(8 75)">
+            <g id="Group_458" data-name="Group 458">
+              <g id="Group_457" data-name="Group 457">
+                <g id="Group_456" data-name="Group 456">
+                  <g id="Group_455" data-name="Group 455">
+                    <g id="Group_454" data-name="Group 454">
+                      <g id="Group_453" data-name="Group 453">
+                        <g id="Group_452" data-name="Group 452">
+                          <g id="Group_451" data-name="Group 451">
+                            <g id="Group_450" data-name="Group 450">
+                              <g transform="matrix(1, 0, 0, 1, -18, -6)" filter="url(#Rectangle_1436)">
+                                <rect id="Rectangle_1436-2" data-name="Rectangle 1436" width="32" height="32" rx="8" transform="translate(18 6)" fill="#ff502f"/>
+                              </g>
+                              <g id="Layer_x0020_1" transform="translate(7.733 8.503) rotate(1)">
+                                <path id="Path_81" data-name="Path 81" d="M7.162,3.208C5.574,2.591,5.072.173,3.254,0c-3.307-.1-4.874,3.348-.889,5.116C.182,3.382,3.167,1.941,7.162,3.208Z" transform="translate(2.021 0.123)" fill="#ff502f" fill-rule="evenodd"/>
+                                <path id="Path_82" data-name="Path 82" d="M0,2.177C1.774,3.013,3.515,5.5,5.3,5.431,8.705,5.616,10.451,1.872,5.78,0,8.569,2.156,3.952,3.493,0,2.177Z" transform="translate(2.591 9.744)" fill="#ff502f" fill-rule="evenodd"/>
+                                <g id="Group_289" data-name="Group 289" transform="translate(4.844 0.111)" clip-path="url(#clip-path)">
+                                  <rect id="Rectangle_162" data-name="Rectangle 162" width="6.473" height="3.28" fill="none"/>
+                                </g>
+                                <path id="Path_84" data-name="Path 84" d="M0,.132c1.708.4,2.1,1.84,3.138,2.784C5.356,4.537,7.368,2.228,5.387.8A9.487,9.487,0,0,0,0,.132Z" transform="translate(5.276)" fill="#ff502f" fill-rule="evenodd"/>
+                                <g id="Group_290" data-name="Group 290" transform="translate(1.739 0.122)" clip-path="url(#clip-path-2)">
+                                  <rect id="Rectangle_163" data-name="Rectangle 163" width="5.332" height="7.881" fill="none"/>
+                                </g>
+                                <path id="Path_86" data-name="Path 86" d="M2.4,0C-.08,1.8,1.154,4.126,5,5.256c4.377,1.048,8.477,4.279,4.672,8.4C12.179,9.5,5.095,8.465,1.727,6.827-1.116,4.863-.134.775,2.4,0Z" transform="translate(0.934 0.559)" fill="#ff502f" fill-rule="evenodd"/>
+                                <g id="Group_291" data-name="Group 291" transform="translate(8.403 9.76)" clip-path="url(#clip-path-3)">
+                                  <rect id="Rectangle_164" data-name="Rectangle 164" width="3.635" height="5.234" fill="none"/>
+                                </g>
+                                <path id="Path_88" data-name="Path 88" d="M2.585,0C.255,1.348.681,4.012,4.937,5.261c3.04.792,9.06,3.155,4.994,8.378,2.505-4.153-4.945-5.212-8.312-6.847A3.883,3.883,0,0,1,2.585,0Z" transform="translate(0.671 0.596)" fill="#ff502f" fill-rule="evenodd"/>
+                                <g id="Group_292" data-name="Group 292" transform="translate(0.194 11.255)" clip-path="url(#clip-path-4)">
+                                  <rect id="Rectangle_165" data-name="Rectangle 165" width="8.388" height="4.055" fill="none"/>
+                                </g>
+                                <path id="Path_90" data-name="Path 90" d="M8.021,3.467C6,3.461,4.31,1.289,3.148.623.79-1.1-1.091,1.152.73,2.579a17.3,17.3,0,0,0,7.292.887Z" transform="translate(0.135 11.702)" fill="#ff502f" fill-rule="evenodd"/>
+                                <path id="Path_91" data-name="Path 91" d="M8.1,3.255c-2.021,0-4-2.014-5.151-2.685C.807-1.051-1.092,1.157.734,2.584A17.352,17.352,0,0,0,8.1,3.255Z" transform="translate(0 11.919)" fill="#ff502f" fill-rule="evenodd"/>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 1672, -98)" filter="url(#JOBS)">
+        <text id="JOBS-2" data-name="JOBS" transform="translate(21 26)" fill="#fff" font-size="12" font-family="Rajdhani-Bold, Rajdhani" font-weight="700"><tspan x="0" y="0">JOBS</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="269" height="52" viewBox="0 0 269 52">
+  <g id="Group_2650" data-name="Group 2650" transform="translate(-46 -528)">
+    <g id="Rectangle_2004" data-name="Rectangle 2004" transform="translate(46 528)" fill="#fff" stroke="#707070" stroke-width="0.2">
+      <rect width="269" height="52" rx="26" stroke="none"/>
+      <rect x="0.1" y="0.1" width="268.8" height="51.8" rx="25.9" fill="none"/>
+    </g>
+    <text id="LOAD_MORE" data-name="LOAD MORE" transform="translate(142 558)" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">LOAD MORE</tspan></text>
+  </g>
+</svg>

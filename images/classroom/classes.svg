@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="89" height="33" viewBox="0 0 89 33">
+  <defs>
+    <filter id="Rectangle_2122" x="0" y="0" width="89" height="33" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_2749" data-name="Group 2749" transform="translate(-263 -264)">
+    <g transform="matrix(1, 0, 0, 1, 263, 264)" filter="url(#Rectangle_2122)">
+      <g id="Rectangle_2122-2" data-name="Rectangle 2122" transform="translate(3 2)" fill="#a60f00" stroke="#707070" stroke-width="0.2">
+        <rect width="83" height="27" rx="3" stroke="none"/>
+        <rect x="0.1" y="0.1" width="82.8" height="26.8" rx="2.9" fill="none"/>
+      </g>
+    </g>
+    <text id="Classes" transform="translate(281 284)" fill="#fff" font-size="14" font-family="Rajdhani-Bold, Rajdhani" font-weight="700"><tspan x="0" y="0">Classes</tspan></text>
+  </g>
+</svg>

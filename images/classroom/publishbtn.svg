@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="248" height="66" viewBox="0 0 248 66">
+  <defs>
+    <filter id="Rectangle_1593" x="0" y="0" width="248" height="66" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_1285" data-name="Group 1285" transform="translate(-56 -459)">
+    <g id="Group_1130" data-name="Group 1130" transform="translate(-3 27)">
+      <g transform="matrix(1, 0, 0, 1, 59, 432)" filter="url(#Rectangle_1593)">
+        <g id="Rectangle_1593-2" data-name="Rectangle 1593" transform="translate(9 6)" stroke="#fff" stroke-width="1">
+          <rect width="230" height="48" rx="6" stroke="none"/>
+          <rect x="0.5" y="0.5" width="229" height="47" rx="5.5" fill="none"/>
+        </g>
+      </g>
+      <text id="PUBLISH_" data-name="PUBLISH !" transform="translate(183 467)" fill="#ff502f" font-size="20" font-family="Rajdhani-Bold, Rajdhani" font-weight="700" letter-spacing="0.018em"><tspan x="-40.769" y="0">PUBLISH !</tspan></text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 26 26">
+  <g id="Group_2173" data-name="Group 2173" transform="translate(-12 -458)">
+    <g id="Rectangle_1900" data-name="Rectangle 1900" transform="translate(12 458)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="26" height="26" rx="3" stroke="none"/>
+      <rect x="0.5" y="0.5" width="25" height="25" rx="2.5" fill="none"/>
+    </g>
+    <g id="statistics" transform="translate(18 463.95)">
+      <g id="Group_2168" data-name="Group 2168" transform="translate(0 5.94)">
+        <g id="Group_2167" data-name="Group 2167">
+          <path id="Path_2727" data-name="Path 2727" d="M3.75,187.75H.537a.538.538,0,0,0-.537.537v8.033a.536.536,0,0,0,.537.537H3.75a.536.536,0,0,0,.537-.537v-8.033A.536.536,0,0,0,3.75,187.75Z" transform="translate(0 -187.75)"/>
+        </g>
+      </g>
+      <g id="Group_2170" data-name="Group 2170" transform="translate(5.357 0.05)">
+        <g id="Group_2169" data-name="Group 2169">
+          <path id="Path_2728" data-name="Path 2728" d="M174.45.05h-3.213a.536.536,0,0,0-.537.533V14.51a.536.536,0,0,0,.537.537h3.213a.536.536,0,0,0,.537-.537V.587A.536.536,0,0,0,174.45.05Z" transform="translate(-170.7 -0.05)"/>
+        </g>
+      </g>
+      <g id="Group_2172" data-name="Group 2172" transform="translate(10.713 4.333)">
+        <g id="Group_2171" data-name="Group 2171">
+          <path id="Path_2729" data-name="Path 2729" d="M345.15,136.55h-3.213a.534.534,0,0,0-.537.537v9.64a.536.536,0,0,0,.537.537h3.213a.536.536,0,0,0,.537-.537v-9.64A.536.536,0,0,0,345.15,136.55Z" transform="translate(-341.4 -136.55)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

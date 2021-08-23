@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24.197" viewBox="0 0 24 24.197">
+  <defs>
+    <filter id="iconfinder_add_134224" x="1.416" y="1.108" width="11.429" height="12.151" filterUnits="userSpaceOnUse">
+      <feOffset dx="1" dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="0.5" result="blur"/>
+      <feFlood flood-opacity="0.6"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_2056" data-name="Group 2056" transform="translate(-1128 -554)">
+    <g id="Flat" transform="translate(1103.576 530)">
+      <path id="Path_2666" data-name="Path 2666" d="M134.185,172.516a1.252,1.252,0,0,1-1.252,1.252H121.252a1.252,1.252,0,0,1-1-2l1-1.335v-5.341c0-.041,0-.081,0-.122A5.19,5.19,0,0,1,125.424,160h3.338a5.179,5.179,0,0,1,3,1.8c.08.1.156.2.229.3a5.174,5.174,0,0,1,.948,2.989v5.341l1,1.335A1.25,1.25,0,0,1,134.185,172.516Z" transform="translate(-89.098 -128.908)" fill="#fee7e2"/>
+      <path id="Path_2667" data-name="Path 2667" d="M148.95,160.792l.544,1.711-1.754.384-.384,1.754-1.711-.544-1.209,1.327-.416-.456A5.19,5.19,0,0,1,148.191,160h1.628Z" transform="translate(-111.865 -128.908)" fill="#fee7e2"/>
+      <path id="Path_2668" data-name="Path 2668" d="M134.185,210.686a1.252,1.252,0,0,1-1.252,1.252H121.252a1.252,1.252,0,0,1-1-2l1-1.335v-.072a24.6,24.6,0,0,0,10.734-8.257,5.174,5.174,0,0,1,.948,2.989V208.6l1,1.335A1.25,1.25,0,0,1,134.185,210.686Z" transform="translate(-89.098 -167.078)" fill="#fdddd6"/>
+      <path id="Path_2669" data-name="Path 2669" d="M215.716,211.468h-1.982a.743.743,0,1,1,0-1.486h3.22v-.991H215.22V208h-.991v.991h-.5a1.734,1.734,0,1,0,0,3.468h1.982a.743.743,0,0,1,0,1.486H212.5v.991h1.734v.991h.991v-.991h.5a1.734,1.734,0,0,0,0-3.468Z" transform="translate(-176.73 -174.404)" fill="#700000"/>
+      <path id="Path_2670" data-name="Path 2670" d="M208.834,106.92,208,104h5.006l-.834,2.92Z" transform="translate(-172.509 -75.828)" fill="#fee7e2"/>
+      <path id="Path_2671" data-name="Path 2671" d="M368,376h4.589v5.841H368Z" transform="translate(-324.165 -333.643)" fill="#348fd9"/>
+      <path id="Path_2676" data-name="Path 2676" d="M64.688,360.834v5.841H55.857a5,5,0,0,1-2.239-.529l-4.865-2.432a1.365,1.365,0,0,1-.754-1.22V362.4a1.363,1.363,0,0,1,1.931-1.24l4.744,2.173h.834a1.252,1.252,0,1,1,0-2.5h3.2l.039-.023a5.693,5.693,0,0,1,5.474-.21l.1.052Z" transform="translate(-20.853 -318.478)" fill="#fec9a3"/>
+      <path id="Path_2677" data-name="Path 2677" d="M181.567,372.7v5.841h-8.831a5.007,5.007,0,0,1-1.426-.208c4.834-1.461,7.337-3.13,9.895-5.815Z" transform="translate(-137.732 -330.345)" fill="#fec093"/>
+      <path id="Path_2678" data-name="Path 2678" d="M184.417,416h3.338a.417.417,0,1,1,0,.834h-3.338a.417.417,0,1,1,0-.834Z" transform="translate(-149.76 -371.557)" fill="#feb784"/>
+      <path id="Path_2679" data-name="Path 2679" d="M368,448h4.589v2.086H368Z" transform="translate(-324.165 -401.889)" fill="#3086cd"/>
+      <ellipse id="Ellipse_120" data-name="Ellipse 120" cx="0.5" cy="1" rx="0.5" ry="1" transform="translate(45.424 45)" fill="#2a71ad"/>
+    </g>
+    <g id="Group_2055" data-name="Group 2055" transform="translate(-11 63)">
+      <circle id="Ellipse_121" data-name="Ellipse 121" cx="6" cy="6" r="6" transform="translate(1139 491)" fill="#700000"/>
+      <g transform="matrix(1, 0, 0, 1, 1139, 491)" filter="url(#iconfinder_add_134224)">
+        <path id="iconfinder_add_134224-2" data-name="iconfinder_add_134224" d="M9.456,5.751H6.588V2.625a.576.576,0,1,0-1.147,0V5.751H2.574a.627.627,0,0,0,0,1.25H5.441v3.125a.576.576,0,1,0,1.147,0V7H9.456a.627.627,0,0,0,0-1.25Z" transform="translate(0.12 -0.19)" fill="#fcf2ef" stroke="#fee7e2" stroke-width="0.4"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="60" height="61.157" viewBox="0 0 60 61.157">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#5e95f8"/>
+      <stop offset="1" stop-color="#b666f8"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0.702"/>
+    </linearGradient>
+    <filter id="Beauty" x="7.574" y="9.27" width="46.517" height="51.888" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-color="#76baff" flood-opacity="0.349"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_1552" data-name="Group 1552" transform="translate(7476 -10272.852)">
+    <circle id="Ellipse_72" data-name="Ellipse 72" cx="30" cy="30" r="30" transform="translate(-7476 10272.852)" fill="url(#linear-gradient)"/>
+    <g transform="matrix(1, 0, 0, 1, -7476, 10272.85)" filter="url(#Beauty)">
+      <path id="Beauty-2" data-name="Beauty" d="M17.689,33.887a1.569,1.569,0,0,1-1.567-1.567V15.366a6.2,6.2,0,0,1,12.4,0V32.32a1.569,1.569,0,0,1-1.567,1.567Zm-16.122,0A1.569,1.569,0,0,1,0,32.32V24.5a1.568,1.568,0,0,1,1.074-1.486L1.435,13a2.42,2.42,0,0,1,1.8-2.231L3.226,1.033a1.224,1.224,0,0,1,.181-.7A.749.749,0,0,1,4.034,0,1.161,1.161,0,0,1,4.77.311L9.019,3.859A3.238,3.238,0,0,1,10.06,6.088l-.006,4.683a2.418,2.418,0,0,1,1.8,2.23l.362,10.015A1.57,1.57,0,0,1,13.287,24.5V32.32a1.569,1.569,0,0,1-1.567,1.567ZM3.29,14.211l-.316,8.725h7.338L10,14.211a1.023,1.023,0,0,0-1.013-.976H4.3A1.023,1.023,0,0,0,3.29,14.211Z" transform="translate(16.57 10.27)" fill="url(#linear-gradient-2)"/>
+    </g>
+  </g>
+</svg>

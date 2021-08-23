@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="149" height="115" viewBox="0 0 149 115">
+  <defs>
+    <filter id="Rectangle_1895" x="0" y="0" width="149" height="115" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_2186" data-name="Group 2186" transform="translate(-17 -459)">
+    <g transform="matrix(1, 0, 0, 1, 17, 459)" filter="url(#Rectangle_1895)">
+      <g id="Rectangle_1895-2" data-name="Rectangle 1895" transform="translate(9 6)" fill="#fff" stroke="#707070" stroke-width="0.1">
+        <rect width="131" height="97" stroke="none"/>
+        <rect x="0.05" y="0.05" width="130.9" height="96.9" fill="none"/>
+      </g>
+    </g>
+    <text id="_Add_Thumbnail_Optional_" data-name="+ Add Thumbnail
+( Optional )" transform="translate(90 508)" fill="#bababa" font-size="16" font-family="Rajdhani-Bold, Rajdhani" font-weight="700"><tspan x="-55.696" y="0">+ Add Thumbnail</tspan><tspan x="-36.216" y="20">( Optional )</tspan></text>
+  </g>
+</svg>

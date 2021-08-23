@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="44" height="45" viewBox="0 0 44 45">
+  <defs>
+    <filter id="iconfinder_add_134224" x="15.09" y="15.922" width="16.477" height="16.477" filterUnits="userSpaceOnUse">
+      <feOffset dx="1" dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="0.5" result="blur"/>
+      <feFlood flood-opacity="0.6"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_1976" data-name="Group 1976" transform="translate(0 0.477)">
+    <rect id="Rectangle_1584" data-name="Rectangle 1584" width="44" height="45" rx="5" transform="translate(0 -0.477)" opacity="0.6"/>
+    <g transform="matrix(1, 0, 0, 1, 0, -0.48)" filter="url(#iconfinder_add_134224)">
+      <path id="iconfinder_add_134224-2" data-name="iconfinder_add_134224" d="M14.143,7.6H9.473V2.934a.934.934,0,1,0-1.868,0V7.6H2.934a.934.934,0,1,0,0,1.868H7.6v4.67a.934.934,0,0,0,1.868,0V9.473h4.67a.934.934,0,0,0,0-1.868Z" transform="translate(13.79 14.62)" fill="#fff" stroke="#fff" stroke-width="0.4"/>
+    </g>
+  </g>
+</svg>

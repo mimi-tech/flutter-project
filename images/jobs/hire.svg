@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="206" height="57" viewBox="0 0 206 57">
+  <defs>
+    <filter id="HIRE" x="76" y="9" width="56" height="44" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_1470" data-name="Group 1470" transform="translate(-76 -462)">
+    <rect id="Rectangle_1789" data-name="Rectangle 1789" width="206" height="57" rx="5" transform="translate(76 462)" fill="#ff502f"/>
+    <g transform="matrix(1, 0, 0, 1, 76, 462)" filter="url(#HIRE)">
+      <text id="HIRE-2" data-name="HIRE" transform="translate(104 34)" fill="#fff" font-size="20" font-family="Rajdhani-Bold, Rajdhani" font-weight="700"><tspan x="-18.69" y="0">HIRE</tspan></text>
+    </g>
+  </g>
+</svg>

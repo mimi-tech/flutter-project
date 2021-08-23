@@ -1,0 +1,5 @@
+
+enum LoginSignupHeader {
+  LOGIN,
+  SIGNUP
+}

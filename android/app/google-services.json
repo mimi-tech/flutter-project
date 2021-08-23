@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "553828271946",
+    "firebase_url": "https://sparks-44la.firebaseio.com",
+    "project_id": "sparks-44la",
+    "storage_bucket": "sparks-44la.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553828271946:android:aedb25d4e9a02652a5a3b3",
+        "android_client_info": {
+          "package_name": "com.sparksuniverse.sparks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553828271946-4s6l4h46eem4ttbuvt4860g0ujaj9ntn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sparksuniverse.sparks",
+            "certificate_hash": "2def311710d1823ec4aa0b14a395fe9808339ef6"
+          }
+        },
+        {
+          "client_id": "553828271946-kbt0gb36uls86tn98uq9hlmnjj9gcekc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7jGg55bm2LQhS5z50De5UrQlyZMhZdZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553828271946-kbt0gb36uls86tn98uq9hlmnjj9gcekc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,4 @@
+enum FabActivity {
+  OPEN,
+  CLOSE,
+}

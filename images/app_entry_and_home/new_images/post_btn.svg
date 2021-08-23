@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="185" height="50" viewBox="0 0 185 50">
+  <defs>
+    <filter id="Rectangle_1667" x="0" y="0" width="185" height="50" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_2065" data-name="Group 2065" transform="translate(-70 -68)">
+    <rect id="Rectangle_1668" data-name="Rectangle 1668" width="167" height="10" rx="4" transform="translate(79 99)" fill="#a60f00"/>
+    <g id="Group_2064" data-name="Group 2064">
+      <g transform="matrix(1, 0, 0, 1, 70, 68)" filter="url(#Rectangle_1667)">
+        <rect id="Rectangle_1667-2" data-name="Rectangle 1667" width="167" height="32" rx="4" transform="translate(9 6)" fill="#fff"/>
+      </g>
+      <g id="Group_1304" data-name="Group 1304" transform="translate(17 -57)">
+        <text id="Create_Post" data-name="Create Post" transform="translate(120 152)" fill="#999" font-size="16" font-family="Rajdhani-SemiBold, Rajdhani" font-weight="600"><tspan x="0" y="0">Create Post</tspan></text>
+        <g id="edit" transform="translate(94.69 137.731)">
+          <path id="Path_2580" data-name="Path 2580" d="M17.333,29.074a.468.468,0,0,0-.468.468v4.153a1.4,1.4,0,0,1-1.4,1.4H2.339a1.4,1.4,0,0,1-1.4-1.4V21.507a1.4,1.4,0,0,1,1.4-1.4H6.491a.468.468,0,1,0,0-.935H2.339A2.341,2.341,0,0,0,0,21.507V33.694a2.341,2.341,0,0,0,2.339,2.339H15.462A2.341,2.341,0,0,0,17.8,33.694V29.542A.468.468,0,0,0,17.333,29.074Zm0,0" transform="translate(0 -18.016)"/>
+          <path id="Path_2581" data-name="Path 2581" d="M156.367,39.157l6.829-6.829,2.2,2.2-6.829,6.829Zm0,0" transform="translate(-149.054 -30.56)"/>
+          <path id="Path_2582" data-name="Path 2582" d="M132.543,199.653l2.434-.674-1.76-1.76Zm0,0" transform="translate(-126.344 -187.739)"/>
+          <path id="Path_2583" data-name="Path 2583" d="M318.677.61a1.171,1.171,0,0,0-1.654,0l-.5.5,2.2,2.2.5-.5a1.17,1.17,0,0,0,0-1.654Zm0,0" transform="translate(-301.723)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

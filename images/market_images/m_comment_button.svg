@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="33.848" height="33.843" viewBox="0 0 33.848 33.843">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.69" y1="0.471" x2="0.389" y2="0.61" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#41e6ff"/>
+      <stop offset="1" stop-color="#8df0ff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.622" y1="0.482" x2="0.357" y2="0.312" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#005792" stop-opacity="0.788"/>
+      <stop offset="1" stop-color="#8df0ff"/>
+    </linearGradient>
+    <filter id="Path_2271" x="6.591" y="6.118" width="27.257" height="27.726" filterUnits="userSpaceOnUse">
+      <feOffset dx="2" dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feFlood flood-opacity="0.831"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_1352" data-name="Group 1352" transform="translate(-314.671 -20.712) rotate(-2)">
+    <path id="Path_2273" data-name="Path 2273" d="M9.6,18.321,3.768,0,0,8.723Z" transform="translate(321.17 40.918) rotate(-46)" fill="url(#linear-gradient)"/>
+    <g transform="matrix(1, 0.03, -0.03, 1, 313.76, 31.68)" filter="url(#Path_2271)">
+      <path id="Path_2271-2" data-name="Path 2271" d="M10.455,0,4.1,19.957,0,10.455Z" transform="matrix(0.73, 0.68, -0.68, 0.73, 21.2, 7.12)" fill="url(#linear-gradient-2)"/>
+    </g>
+    <path id="Path_2272" data-name="Path 2272" d="M.291,7.675l9.324,3.583,4.029,9.327a.454.454,0,0,0,.416.274h.023a.454.454,0,0,0,.41-.315L20.843.586a.43.43,0,0,0,.009-.063A.408.408,0,0,0,20.861.46a.442.442,0,0,0-.017-.129c0-.01,0-.02,0-.029l0,0a.457.457,0,0,0-.083-.143.425.425,0,0,0-.04-.035A.435.435,0,0,0,20.647.06c-.006,0-.014,0-.02-.008a.45.45,0,0,0-.059-.024.452.452,0,0,0-.1-.026.414.414,0,0,0-.063,0A.446.446,0,0,0,20.3.014c-.012,0-.024,0-.037,0L.308,6.822a.453.453,0,0,0-.017.853ZM14,19.112l-3.5-8.106,8.919-8.919ZM18.711,1.506,9.844,10.373l-8.059-3.1Z" transform="translate(327.974 32.178) rotate(45)" fill="#8df0ff"/>
+  </g>
+</svg>

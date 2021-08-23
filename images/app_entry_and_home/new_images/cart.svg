@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22.281" height="22.131" viewBox="0 0 22.281 22.131">
+  <g id="Group_2875" data-name="Group 2875" transform="translate(6720.75 -18211)">
+    <g id="shopping-cart_2_" data-name="shopping-cart (2)" transform="translate(-6720.75 18212.926)">
+      <g id="Group_2134" data-name="Group 2134" transform="translate(14.694 15.612)">
+        <g id="Group_2133" data-name="Group 2133">
+          <circle id="Ellipse_122" data-name="Ellipse 122" cx="2.296" cy="2.296" r="2.296"/>
+        </g>
+      </g>
+      <g id="Group_2136" data-name="Group 2136" transform="translate(5.51 15.612)">
+        <g id="Group_2135" data-name="Group 2135">
+          <circle id="Ellipse_123" data-name="Ellipse 123" cx="2.296" cy="2.296" r="2.296"/>
+        </g>
+      </g>
+      <g id="Group_2138" data-name="Group 2138" transform="translate(0 0)">
+        <g id="Group_2137" data-name="Group 2137">
+          <path id="Path_2720" data-name="Path 2720" d="M20.3,51.024a1,1,0,0,0-.459.092,5.952,5.952,0,0,1-8.816-5.235.434.434,0,0,0-.459-.459H4.133l-.459-2.388a.61.61,0,0,0-.459-.367H.459a.459.459,0,1,0,0,.918H2.847l2.2,11.2a3.338,3.338,0,0,0,3.214,2.571H18.827a.459.459,0,1,0,0-.918H8.265a2.117,2.117,0,0,1-1.837-1.01L19.837,53.6a.4.4,0,0,0,.367-.367l.276-1.745C20.48,51.3,20.48,51.116,20.3,51.024Z" transform="translate(0 -42.667)"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_2874" data-name="Group 2874" transform="translate(-6708.571 18211)">
+      <circle id="Ellipse_204" data-name="Ellipse 204" cx="5.051" cy="5.051" r="5.051" transform="translate(0)"/>
+      <g id="Group_2872" data-name="Group 2872" transform="translate(8.174 1.928) rotate(90)">
+        <rect id="Rectangle_2053" data-name="Rectangle 2053" width="1.224" height="6.245" transform="translate(2.51 0)" fill="#fff"/>
+        <rect id="Rectangle_2054" data-name="Rectangle 2054" width="6.245" height="1.224" transform="translate(0 2.51)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,1 @@
+const String kFirebaseStorage = "gs://sparks-44la.appspot.com";
